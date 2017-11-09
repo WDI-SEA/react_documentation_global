@@ -1,4 +1,13 @@
-# Exploring Documentation
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Exploring Documentation
+
+
+### Learning Objectives
+*After this lesson, you will be able to:*
+- Read through the React documentation
+- Apply concepts in the React documentation
+
+
+## Documentation
 
 When you don't know how to do something in programming, a great place to check is the documentation. Some frameworks have documentation that's very dense and difficult to parse, but others are much more straightforward. Luckily, React.js is one of the more well written ones!
 
