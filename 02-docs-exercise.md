@@ -1,4 +1,6 @@
-# Exploring Documentation: Group exercise
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Exploring Documentation: Group exercise
+
+
 
 ### Task
 In small groups, choose one of the following questions to research in the Facebook React.js documentation.
